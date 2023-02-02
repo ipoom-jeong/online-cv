@@ -17,7 +17,7 @@ sidebar:
     #phone: (KR, +82) 10-9180-7008
     timezone: Central Standard Time (CST) Zone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: ipoom-jeong
     xing: 
     github: 
@@ -42,13 +42,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
+          link:
+
+        - item: Running
+          link:
+
+        - item: Reading
           link:
 
 career-profile:
@@ -60,12 +60,13 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D. in Electrical and Electronic Engineering
+        university: Yonsei University, Seoul, Korea
+        time: 2014 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: B.S. in Electrical and Electronic Engineering
+        university: Yonsei University, Seoul, Korea
+        time: 2010 - 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
