@@ -114,24 +114,28 @@ projects:
 #      You can list your side projects in this section. 
     assignments:
       - title: "SmartSSD 2.0: Development of Next-Generation Computational Storage Drive"
-        link: "#hook"
-        tagline: "Research and development project in Samsung Electronics"
+        link: "https://news.samsung.com/global/samsung-electronics-develops-second-generation-smartssd-computational-storage-drive-with-upgraded-processing-functionality"
+        tagline: "Research and development project in Samsung Electronics."
 
-      - title: DevStudio
+      - title: "Development of CXL-based Accelerator and Memory Expansion Device"
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Research project in Samsung Electronics."
 
-      - title: Tempo
+      - title: "Development of CPU-GPU Heterogeneous Computing Simulation Framework"
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Joint project  in Yonsei University with SK Hynix."
 
-      - title: Atom
+      - title: "Development of Energy-Efficient Approximate Memory for Neural Network Applications"
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Joint project  in Yonsei University with SK Hynix."
 
-      - title: Delta
+      - title: "Development of Processor and Memory System for Next-Generation Security Platform"
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Joint project in Yonsei University with Samsung Electronics."
+      
+      - title: "Development of Low-Power Mobile Computing Platform"
+        link: "#"
+        tagline: "Joint project in Yonsei University with LG Electronics."
 
 oss:
     title: OSS Contributions
@@ -185,13 +189,13 @@ publications:
         conference: "IEEE Transactions on Computers, 2019"
         
       - title: "Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds"
-        link: 
+        link: "#"
         authors: Ipoom Jeong and Won Woo Ro
         conference: "The 3rd International Conference On Consumer Electronics Asia (ICCE-Asia), 2018"
         
          
       - title: "Exploiting Back-end Fusion in Multi-Core Processors"
-        link: 
+        link: "#"
         authors: Jong Hyun Park, Ipoom Jeong, and Won Woo Ro
         conference: 
 
