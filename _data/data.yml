@@ -76,28 +76,33 @@ experiences:
       - role: Postdoctoral Research Associate
         time: 2022.09 - Present
         company: Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, Illinois, USA
-        #details: |
+        details: |
 
       - role: Research Professor
         time: 2021.09 - 2022.08
         company: Yonsei University, Seoul, Korea
-        #details: |
+        details: |
           
       - role: Staff Engineer
         time: 2021.03 - 2021.08
         company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
-        #details: |
+        details: |
       
       - role: Engineer
         time: 2020.03 - 2021.02
         company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
-        #details: |
+        details: |
        
       - role: Research Assistant
         time: 2014.03 - 2020.02
         company: Embedded Systems and Computer Architecture Lab (esCaL), Yonsei University, Seoul, Korea
         details: |
-       
+        
+      - role: Teaching Assistant
+        time: 2014.03 - 2020.02
+        company: Yonsei University, Seoul, Korea
+        details: |
+            - Advanced Computer Architecture      
           
 projects:
     title: Projects
