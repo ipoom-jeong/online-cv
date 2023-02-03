@@ -97,9 +97,9 @@ experiences:
 projects:
     title: Projects
     intro: > 
-      You can list your side projects in this section. 
+#      You can list your side projects in this section. 
     assignments:
-      - title: SmartSSD 2.0:
+      - title: "SmartSSD 2.0: Development of Next-Generation Computational Storage Drive"
         link: "#hook"
         tagline: "Research and development project in Samsung Electronics"
 
@@ -141,11 +141,11 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Reconstructing Out-of-Order Issue Queue
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
