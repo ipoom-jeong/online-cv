@@ -86,6 +86,7 @@ experiences:
         time: 2021.03 - 2021.08
         company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
         details: |
+        Paricipate in
       
       - role: Engineer
         time: 2020.03 - 2021.02
@@ -94,14 +95,14 @@ experiences:
           
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: > 
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: SmartSSD 2.0: Development of Next-Generation Computational Storage Drive
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Research and development project in Samsung Electronics"
 
       - title: DevStudio
         link: "#"
@@ -140,7 +141,7 @@ oss:
 
 publications:
     title: Publications
-    intro: |
+    intro: |#
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
