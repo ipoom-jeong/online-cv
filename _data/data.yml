@@ -160,9 +160,9 @@ publications:
 #      bibendum fringilla a eu lectus.
     papers:
       - title: Reconstructing Out-of-Order Issue Queue
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        link: "https://ieeexplore.ieee.org/document/9923800"
+        authors: Ipoom Jeong, Jiwon Lee, Myung Kuk Yoon, and Won Woo Ro
+        conference: The 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
