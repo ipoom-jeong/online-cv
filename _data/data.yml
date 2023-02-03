@@ -99,7 +99,7 @@ projects:
     intro: > 
       You can list your side projects in this section. 
     assignments:
-      - title: SmartSSD 2.0
+      - title: SmartSSD 2.0:
         link: "#hook"
         tagline: "Research and development project in Samsung Electronics"
 
