@@ -159,20 +159,41 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title: Reconstructing Out-of-Order Issue Queue
+      - title: "Reconstructing Out-of-Order Issue Queue"
         link: "https://ieeexplore.ieee.org/document/9923800"
         authors: Ipoom Jeong, Jiwon Lee, Myung Kuk Yoon, and Won Woo Ro
-        conference: The 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022
+        conference: "The 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "TEA-RC: Thread Context-Aware Register Cache for GPUs"
+        link: "https://ieeexplore.ieee.org/document/9848819"
+        authors: Ipoom Jeong, Yunho Oh, Won Woo Ro, and Myung Kuk Yoon
+        conference: "IEEE Access, 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs"
+        link: "https://ieeexplore.ieee.org/document/9745582"
+        authors: Yunho Oh, Ipoom Jeong, Won Woo Ro, and Myung Kuk Yoon
+        conference: "IEEE Embedded Systems Letters, 2022"
+
+      - title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows"
+        link: "https://ieeexplore.ieee.org/abstract/document/9065575"
+        authors: Ipoom Jeong, Seihoon Park, Changmin Lee, and Won Woo Ro
+        conference: "The 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2020"
+
+      - title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
+        link: "https://ieeexplore.ieee.org/document/9745582"
+        authors: Ipoom Jeong, Changmin Lee, Keunsoo Kim, and Won Woo Ro
+        conference: "IEEE Transactions on Computers, 2019"
+        
+      - title: "Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds"
+        link: 
+        authors: Ipoom Jeong and Won Woo Ro
+        conference: "The 3rd International Conference On Consumer Electronics Asia (ICCE-Asia), 2018"
+        
+         
+      - title: "Exploiting Back-end Fusion in Multi-Core Processors"
+        link: 
+        authors: Jong Hyun Park, Ipoom Jeong, and Won Woo Ro
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
