@@ -180,7 +180,7 @@ publications:
         conference: "The 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2020"
 
       - title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
-        link: "https://ieeexplore.ieee.org/document/9745582"
+        link: "https://ieeexplore.ieee.org/abstract/document/8807276"
         authors: Ipoom Jeong, Changmin Lee, Keunsoo Kim, and Won Woo Ro
         conference: "IEEE Transactions on Computers, 2019"
         
