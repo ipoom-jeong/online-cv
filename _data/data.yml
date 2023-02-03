@@ -75,7 +75,7 @@ experiences:
     info:
       - role: Postdoctoral Research Associate
         time: 2022.09 - Present
-        company: University of Illinois Urbana-Champaign, Illinois, United States of America
+        company: Future Architecture and System Technology for Scalable Computing (FAST), University of Illinois Urbana-Champaign, Illinois, United States of America
         details: |
 
       - role: Research Professor
@@ -93,6 +93,12 @@ experiences:
         time: 2020.03 - 2021.02
         company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
         details: |
+       
+      - role: Research Assistant
+        time: 2014.03 - 2020.02
+        company: Embedded Systems and Computer Architecture Lab (esCaL), Yonsei University, Seoul, Korea
+        details: |
+       
           
 projects:
     title: Projects
