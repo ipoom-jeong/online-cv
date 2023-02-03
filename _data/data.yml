@@ -63,7 +63,7 @@ education:
       - degree: Ph.D. in Electrical and Electronic Engineering
         university: Yonsei University, Seoul, Korea
         time: 2014.03 - 2020.02
-        details: |
+        #details: |
           
       - degree: B.S. in Electrical and Electronic Engineering
         university: Yonsei University, Seoul, Korea
