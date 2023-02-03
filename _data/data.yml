@@ -181,23 +181,27 @@ publications:
       - title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows"
         link: "https://ieeexplore.ieee.org/abstract/document/9065575"
         authors: Ipoom Jeong, Seihoon Park, Changmin Lee, and Won Woo Ro
-        conference: "The 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2020"
+        conference: "The 26th IEEE International Symposium on High Performance Computer Architecture (HPCA 2020), San Diego, CA, USA , Feb. 22 - 26, 2020 (IF: 4, NRF BK21+)"
 
       - title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
         link: "https://ieeexplore.ieee.org/abstract/document/8807276"
         authors: Ipoom Jeong, Changmin Lee, Keunsoo Kim, and Won Woo Ro
-        conference: "IEEE Transactions on Computers, 2019"
+        conference: "IEEE Transactions on Computers, Vol. 68, Issue 12, pp. 1802-1816, Dec. 2019 (IF: 3.131, Q1, JCR2018)"
         
       - title: "Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds"
         link: "#"
         authors: Ipoom Jeong and Won Woo Ro
-        conference: "The 3rd International Conference On Consumer Electronics Asia (ICCE-Asia), 2018"
+        conference: "The 3rd International Conference On Consumer Electronics Asia (ICCE-ASIA 2018), Jeju, Korea, Jun. 24 - 26, 2018"
         
-         
-      - title: "Exploiting Back-end Fusion in Multi-Core Processors"
+      - title: "Parallel In-Order Execution Architecture for Low-Power Processor"
+        link: "https://ieeexplore.ieee.org/document/8368829"
+        authors: Kyungmin Lee, Ipoom Jeong, and Won Woo Ro
+        conference: "The 14th International SoC Design Conference (ISOCC 2017), Seoul, Korea, Nov. 5 - 8, 2017"
+    
+      - title: "Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs"
         link: "#"
-        authors: Jong Hyun Park, Ipoom Jeong, and Won Woo Ro
-        conference: 
+        authors: Hyunjune Shin, Kyungmin Lee, Ipoom Jeong, Jong Hyun Park, and Won Woo Ro
+        conference: "The 16th International Conference on Electronics, Information and Communication (ICEIC 2017), Phuket, Thailand, Jan. 11 - 14, 2017"
 
 skills:
     title: Skills &amp; Proficiency
