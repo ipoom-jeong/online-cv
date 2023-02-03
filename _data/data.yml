@@ -63,7 +63,8 @@ education:
       - degree: Ph.D. in Electrical and Electronic Engineering 
         university: Yonsei University, Korea 
         time: 2014.03 - 2020.02
-        details: | "Advisor: Professor Won Woo Ro"
+        details: | 
+          Advisor: Professor Won Woo Ro
           
       - degree: B.S. in Electrical and Electronic Engineering
         university: Yonsei University, Korea
@@ -76,7 +77,8 @@ experiences:
       - role: Postdoctoral Research Associate 
         time: 2022.09 - Present
         company: Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA 
-        details: | "Principal Investigator: Professor Nam Sung Kim"
+        details: | 
+          Principal Investigator: Professor Nam Sung Kim
 
       - role: Research Professor
         time: 2021.09 - 2022.08
