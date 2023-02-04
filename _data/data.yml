@@ -39,18 +39,6 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Cooking
-          link:
-
-        - item: Running
-          link:
-
-        - item: Reading
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -202,28 +190,6 @@ publications:
         link: "#"
         authors: Hyunjune Shin, Kyungmin Lee, Ipoom Jeong, Jong Hyun Park, and Won Woo Ro
         conference: "The 16th International Conference on Electronics, Information and Communication (ICEIC 2017), Phuket, Thailand, Jan. 11 - 14, 2017"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
