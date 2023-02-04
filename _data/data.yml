@@ -82,24 +82,24 @@ experiences:
 
       - role: Research Professor
         time: 2021.09 - 2022.08
-        company: Yonsei University, Seoul, Korea
+        company: BK21 Y-BASE R&E Institute, Yonsei University, Seoul, Korea
         details: |
           
       - role: Staff Engineer
         time: 2021.03 - 2021.08
-        company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
+        company: Advanced Solution Development Team, Memory Business, Samsung Electronics, Hwasung-si, Korea
         details: |
       
       - role: Engineer
         time: 2020.03 - 2021.02
-        company: Advanced Solution Development Team, Samsung Electronics, Hwasung-si, Korea
+        company: Advanced Solution Development Team, Memory Business, Samsung Electronics, Hwasung-si, Korea
         details: |
        
       - role: Research Assistant
         time: 2014.03 - 2020.02
-        company: Yonsei University, Seoul, Korea
+        company: Embedded Systems and Computer Architecture Lab (esCaL), Yonsei University, Seoul, Korea
         details: |
-          Embedded Systems and Computer Architecture Lab (esCaL)
+          
         
       - role: Teaching Assistant
         time: 2014.03 - 2020.02
