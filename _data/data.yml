@@ -31,13 +31,13 @@ sidebar:
     pdf: https://ipoom-jeong.github.io/online-cv/print
 
     languages:
-      title: Languages
+      title: #Languages
       info:
-        - idiom: Korean
-          level: Native
+        - idiom: #Korean
+          level: #Native
 
-        - idiom: English
-          level: Professional
+        - idiom: #English
+          level: #Professional
           
     interests:
       title: #Interests
