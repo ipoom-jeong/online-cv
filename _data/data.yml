@@ -40,15 +40,15 @@ sidebar:
           level: Professional
           
     interests:
-      title: Interests
+      title: #Interests
       info:
-        - item: Climbing
+        - item: #Climbing
           link:
 
-        - item: Snowboarding
+        - item: #Snowboarding
           link:
 
-        - item: Cooking
+        - item: #Cooking
           link:
 
 career-profile:
