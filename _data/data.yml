@@ -172,7 +172,7 @@ publications:
       - title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows"
         link: "https://ieeexplore.ieee.org/abstract/document/9065575"
         authors: Ipoom Jeong, Seihoon Park, Changmin Lee, and Won Woo Ro
-        conference: "The 26th IEEE International Symposium on High Performance Computer Architecture (HPCA 2020), San Diego, CA, USA, Oct. 01 - 05 2022 (IF: 4, NRF BK21+)"
+        conference: "The 26th IEEE International Symposium on High Performance Computer Architecture (HPCA 2020), San Diego, CA, USA, Feb. 22 - 26 2022 (IF: 4, NRF BK21+)"
 
       - title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
         link: "https://ieeexplore.ieee.org/abstract/document/8807276"
